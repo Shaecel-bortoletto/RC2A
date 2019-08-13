@@ -1,4 +1,4 @@
 # RC2A
-DevOps
-Anselmo Bortoletto
-RA: 1802516
+DevOps<br/>
+Anselmo Bortoletto<br/>
+RA: 1802516<br/>
